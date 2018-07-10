@@ -1,4 +1,4 @@
-baseURL = "https://his-is-test3.netlify.com/"
+baseURL = "https://this-is-test3.netlify.com/"
 languageCode = "en-us"
 title = "Nikhil's Sample Site"
 theme = "ananke"
